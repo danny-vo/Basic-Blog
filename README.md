@@ -9,5 +9,5 @@ Current features include:
   4.) Shows 5 posts at a time - can choose to expand to view all  
   5.) Usage of Objectify API to save user posts to GAE
   
-Adddress of blog: https://blog461l-144121.appspot.com/
+Address of blog: https://blog461l-144121.appspot.com/
   
