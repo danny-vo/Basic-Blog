@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/cron/email</url>
+		<description>Emails all blog subscribers weekly of 5 most recent posts
+		</description>
+		<schedule>every day 22:00</schedule>
+	</cron>
+</cronentries>
