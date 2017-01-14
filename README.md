@@ -7,3 +7,4 @@ Current features include:
   2.) Different pages for different actions  
   3.) Cron task that updates all subscribed users of new posts on a daily basis via email (can unsubscribe)    
   4.) Login via Google login  
+  5.) Usage of Objectify API to save user posts to GAE
